@@ -5,6 +5,10 @@
 - [Thats twerks on my machine](#thats-twerks-on-my-machine)
 - [Keep Your Distance](#keep-your-distance)
 - [Five Key Phase](#five-key-phase)
+- [Different Error Message](#different-error-message)
+- [Developer Triforce](#developer-triforce)
+- [Disabled Function](#disabled-function)
+- [Love Table Index](#love-table-index)
 
 ## Code review scrolling speed
 
@@ -33,3 +37,19 @@
 ## Five Key Phase
 
 ![](memes/five_key_phase.png)
+
+## Different Error Message
+
+![](memes/different_error_message.jpg)
+
+## Developer Triforce
+
+![](memes/developer_triforce.jpg)
+
+## Disabled Function
+
+![](memes/disabled_function.jpg)
+
+## Love Table Index
+
+![](memes/love_table_index.jpg)
