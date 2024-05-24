@@ -12,6 +12,8 @@
   - [Developer Triforce](#developer-triforce)
   - [Disabled Function](#disabled-function)
   - [Love Table Index](#love-table-index)
+  - [Bug Fixed Or Hard to reproduce](#bug-fixed-or-hard-to-reproduce)
+  - [Bug Smashing](#bug-smashing)
 
 ## Code review scrolling speed
 
@@ -56,3 +58,11 @@
 ## Love Table Index
 
 ![Love Table Index meme](memes/love_table_index.jpg)
+
+## Bug Fixed Or Hard to reproduce
+
+![Bug Fixed Or Hard to reproduce](memes/bug_fixed_or_hard.jpg)
+
+## Bug Smashing
+
+![Bug Smashing](memes/bug_smashing.jpg)
