@@ -1,0 +1,35 @@
+name: new meme request
+description: Suggest a meme you like to see it in the meme list.
+title: "[Idea]: "
+labels: ["idea"]
+projects: 
+assignees:
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest new memes!
+  - type: input
+    id: name
+    attributes:
+      label: Name of you meme
+      description: Enter the name of the meme, it's better if it's it original name but you can add you custom name.
+      placeholder: Enter the name here, please no insult, racism, etc...!
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link of the meme
+      description: Share with us the link of the meme you like.
+      placeholder: Paste the link here, be sure it's not a Rickroll!
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why you like this meme?
+      description: Tell why you like this meme, for easily understanding of dumb people like me.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
