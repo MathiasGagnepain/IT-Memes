@@ -14,6 +14,8 @@
   - [Love Table Index](#love-table-index)
   - [Bug Fixed Or Hard to reproduce](#bug-fixed-or-hard-to-reproduce)
   - [Bug Smashing](#bug-smashing)
+  - [Business Logic](#business-logic)
+  - [Frontend Vs Backend](#frontend-vs-backend)
 
 ## Code review scrolling speed
 
@@ -66,3 +68,11 @@
 ## Bug Smashing
 
 ![Bug Smashing](memes/bug_smashing.jpg)
+
+## Business Logic
+
+![Business Logic](memes/business_logic.jpg)
+
+## Frontend Vs Backend
+
+![Frontend Vs Backend](memes/frontend_vs_backend.jpg)
